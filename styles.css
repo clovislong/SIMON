@@ -22,11 +22,11 @@ p {
 
 button {
 	margin: 10pt;
-	width: 100pt;
-	height: 100pt;
+	width: 110pt;
+	height: 110pt;
 	font-family: 'MuseoModerno', cursive;
 	font-size: 4rem;
-	border-radius: 50pt;
+	border-radius: 30pt;
 	outline: none;
 	box-shadow: 0 0 10pt black;
 	filter: brightness(.5);
